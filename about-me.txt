@@ -1,0 +1,3 @@
+My name is Arindee.
+I am learning how to use GitHub.
+This is my practice repository.
